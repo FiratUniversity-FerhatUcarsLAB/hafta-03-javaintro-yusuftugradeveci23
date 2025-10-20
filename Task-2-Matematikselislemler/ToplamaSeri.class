@@ -1,0 +1,11 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by FernFlower decompiler)
+//
+
+class Main {
+    public static void main(String[] args) {
+        int sonuc = 45;
+        System.out.println(" 1+2+...+9 = " + sonuc);
+    }
+}
