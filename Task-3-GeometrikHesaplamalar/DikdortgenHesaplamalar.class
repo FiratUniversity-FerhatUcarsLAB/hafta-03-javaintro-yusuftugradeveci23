@@ -1,0 +1,15 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by FernFlower decompiler)
+//
+
+class Main {
+    public static void main(String[] args) {
+        double uzunKenar = 7.9;
+        double kisaKenar = (double)4.5F;
+        double alan = uzunKenar * kisaKenar;
+        double cevre = (double)2.0F * (uzunKenar + kisaKenar);
+        System.out.println("Dikdörtgenin Alanı: " + alan);
+        System.out.println("Dikdörtgenin Çevresi: " + cevre);
+    }
+}
