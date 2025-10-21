@@ -1,0 +1,19 @@
+/
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by FernFlower decompiler)
+//
+
+public class Main {
+    public static void main(String[] args) {
+        double a = (double)3.0F;
+        double b = (double)4.0F;
+        double c = (double)5.0F;
+        double s = (a + b + c) / (double)2.0F;
+        double alan = Math.sqrt(s * (s - a) * (s - b) * (s - c));
+        System.out.println("Üçgenin Kenarları: a = " + a + ", b = " + b + ", c = " + c);
+        System.out.println("Yarı çevre (s) = (a + b + c)/2 = " + s);
+        System.out.println("Alan = √[s * (s - a) * (s - b) * (s - c)]");
+        System.out.println("Alan = √[" + s + " * (" + s + " - " + a + ") * (" + s + " - " + b + ") * (" + s + " - " + c + ")]");
+        System.out.println("Üçgenin Alanı = " + alan);
+    }
+}
