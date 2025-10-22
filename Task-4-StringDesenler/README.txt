@@ -1,0 +1,3 @@
+Adı Soyadı:Yusuf Tuğra Deveci   Öğrenci No:250541095
+
+Bu projede Java programlama dili kullanılarak üç farklı uygulama geliştirilmiştir. İlk olarak, ad, soyad, öğrenci numarası ve bölüm bilgilerini ekrana düzenli bir formatta gösteren bir isim kartı hazırlanmıştır. İkinci olarak, ismimin baş harfi ASCII karakterleriyle çizilerek ekrana yansıtılmıştır. Son olarak ise ürün, miktar ve fiyat bilgilerinden oluşan bir alışveriş listesi tablo formatında ekrana yazdırılmıştır. Bu çalışmalar sayesinde Java’da temel yazdırma komutlarını, metin biçimlendirmeyi ve tablo düzeninde veri sunmayı öğrenmiş oldum. Programlar IntelliJ IDEA ortamında derlenip başarıyla çalıştırılmıştır.
