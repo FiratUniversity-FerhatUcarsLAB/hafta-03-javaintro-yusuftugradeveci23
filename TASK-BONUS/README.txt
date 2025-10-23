@@ -1,0 +1,4 @@
+Adı Soyadı: Yusuf Tuğra Deveci      Öğrenci No:250541095
+
+
+Bu proje temel Java programlama örneklerini içermektedir. Örnekler arasında saniyeyi saat:dakika:saniye formatına dönüştüren bir saat dönüştürme uygulaması bulunmaktadır; örneğin 3665 saniye 1:01:05 olarak gösterilmektedir. Ayrıca Vücut Kitle İndeksi (BMI) hesaplayan bir program yer almaktadır; kullanıcının kilo ve boy bilgilerine göre BMI, kilo / (boy * boy) formülü ile hesaplanmakta ve örneğin 70 kg ve 1.75 m için 22.86 olarak elde edilmektedir. Para bozma örneğinde, girilen tutar 100, 50, 20, 5, 2 ve 1 TL’lik banknot ve paralara ayrılmakta; örneğin 278 TL, 2x100, 1x50, 1x20, 1x5, 1x2 ve 1x1 şeklinde dağıtılmaktadır. Son olarak kendi adını ASCII karakterleri ile yazdıran bir örnek bulunmaktadır. Bu README, temel Java örneklerinin kısa açıklamalarını ve kullanım örneklerini bir arada sunmaktadır ve her örnek kendi başına çalıştırılabilir.
